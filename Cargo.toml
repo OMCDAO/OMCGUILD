@@ -1,10 +1,10 @@
 [package]
-name = "coal-hq-client"
+name = "omcguild"
 version = "1.3.0"
 edition = "2021"
-description = "Coal mining pool client."
+description = "Coal-ore mining pool client."
 license = "Apache-2.0"
-repository = "https://github.com/Kriptikz/ore-hq-client"
+repository = "https://github.com/omcdao/omcguild"
 keywords = ["solana", "crypto", "mining", "client", "mining-pool"]
 
 [dependencies]
